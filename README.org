@@ -1,8 +1,8 @@
-Google Drive backup solutions
+* Google Drive backup solutions
 
-* Features
+** Features
 
-** My requirements
+*** My requirements
 
 - Supports Linux.
 - Doesn't require a Google Apps account.
@@ -11,7 +11,7 @@ Google Drive backup solutions
 - Reliable.
 - Backed by a legit organization.
 
-** My wish list
+*** My wish list
 
 - Desktop app, not a web app.
 - Open-source.
@@ -23,7 +23,7 @@ Google Drive backup solutions
 - Popular, which helps to ensure longevity.
 - Inexpensive.
 
-* Solutions
+** Solutions
 
 - [[http://gs.fhtino.it/gdocbackup][GDocBackup]]
   - Open-source .NET/Mono desktop app that supports Linux, OS X, and Windows.
@@ -107,7 +107,7 @@ Google Drive backup solutions
   - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D393%2B9547105767200082343][Google Apps Marketplace]].
   - US company.
 
-* Miscellaneous resources
+** Miscellaneous resources
 
 - [[http://www.google.com/enterprise/marketplace/search?query%3Dbackup%2B|%2Bbackups%2B|%2B"back%2Bup"][Backup apps]] and [[http://www.google.com/enterprise/marketplace/search?categoryId%3D8&orderBy%3DMOST_REVIEWED][security and compliance apps]] at the Google Apps Marketplace
 - [[google:%2522Google%2BDrive%2522%2B|%2B%2522Google%2BDocs%2522%2Bbackups][Search for Google Drive backup solutions]] at Google
