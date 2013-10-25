@@ -1,0 +1,114 @@
+Google Drive backup solutions
+
+* Features
+
+** My requirements
+
+- Supports Linux.
+- Doesn't require a Google Apps account.
+- Backs up shared Google docs and spreadsheets.
+- Secure.
+- Reliable.
+- Backed by a legit organization.
+
+** My wish list
+
+- Desktop app, not a web app.
+- Open-source.
+- Command-line interface.
+- Local backups, not remote backups.
+- Backs up Google docs and spreadsheets to multiple file formats, including
+  OpenDocument files.
+- Can use [[http://support.google.com/accounts/bin/answer.py?answer%3D185833][application-specific passwords]].
+- Popular, which helps to ensure longevity.
+- Inexpensive.
+
+* Solutions
+
+- [[http://gs.fhtino.it/gdocbackup][GDocBackup]]
+  - Open-source .NET/Mono desktop app that supports Linux, OS X, and Windows.
+  - Local backups.
+  - Can back up Google docs and spreadsheets to multiple file formats, including
+    OpenDocument files.
+  - Can use application-specific passwords.
+  - Few mentions at [[https://twitter.com/search?q%3DGDocBackup][Twitter]].
+- [[https://www.insynchq.com/][Insync]]
+  - Closed-source desktop app that supports Linux, OS X, and Windows.
+  - Local backups.
+  - Can back up Google docs and spreadsheets as OpenDocument files (on Linux).
+  - Can't use application-specific passwords. See this [[https://support.insynchq.com/forums/discussion/2248/application-specific-passwords][feature request]].
+  - Many posts at the [[https://forums.insynchq.com/][Insync Forums]].
+  - Many mentions at [[https://twitter.com/search?q%3Dinsynchq][Twitter]].
+  - Filipino company.
+- [[http://www.backupgoo.com/][BackupGoo]]
+  - Closed-source Java app that supports Linux, OS X, and Windows.
+  - Local backups.
+  - Can back up Google docs and spreadsheets as OpenDocument files.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D5711%2B8741222018438730284][Google Apps Marketplace]].
+  - Few mentions at [[https://twitter.com/search?q%3DBackupGoo][Twitter]].
+  - German company.
+- [[https://www.backupify.com/products/personal-apps-backup][Backupify for Personal Apps]]
+  - Remote and local backups.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D5941%2B16825965296321823984][Google Apps Marketplace]].
+  - US company.
+- [[https://github.com/x8wk/Brive][Brive]]
+  - Open-source Python app.
+  - Requires a Google Apps account.
+  - Local backups.
+- [[http://www.cloudally.com/][CloudAlly]]
+  - Web app.
+  - Remote backups only.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D7570%2B4216490100862013731][Google Apps Marketplace]].
+- [[https://www.cloudhq.net/][cloudHQ]]
+  - Web app.
+  - Remote backups only.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D8735%2B17612927972515907802][Google Apps Marketplace]].
+  - US company.
+- [[http://www.cloudcodes.com/gbackup-overview.html][gBackup]]
+  - Closed-source Windows app.
+  - Local backups.
+  - Expensive.
+  - No reviews at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D13364%2B12591807170902385401][Google Apps Marketplace]].
+  - Indian company.
+- [[https://github.com/joeyates/gdata-backup][gdata-backup]]
+  - Open-source Ruby gem that isn't available at RubyGems.org.
+  - Backs up Google docs and spreadsheets as OpenDocument files.
+- [[http://www.workflow.ae/Products.aspx][Google Docs Backup Utility]]
+  - Closed-source Windows app.
+  - Can back up Google docs and spreadsheets as OpenDocument files.
+  - Local backups.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D9131%2B10805174587466619095][Google Apps Marketplace]].
+  - UAE company.
+- [[http://mover.io/][Mover.io]]
+  - Web app.
+  - Remote backups only.
+  - Backs up Google docs and spreadsheets as Microsoft Office files.
+  - Canadian company.
+- [[http://spanning.com/backup/][Spanning Backup]]
+  - Web app.
+  - Remote backups only.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D68%2B17631887083757151838][Google Apps Marketplace]].
+  - US company.
+- [[https://spinbackup.com/][Spinbackup]]
+  - Web app with free plan.
+  - Remote backups only.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D22892%2B14686471106569761297][Google Apps Marketplace]].
+  - Few posts at the [[http://forum.spinbackup.com/][Spinbackup Forums]].
+  - Ukrainian company?
+- [[http://www.syncdocs.com/][Syncdocs]]
+  - Closed-source Windows app.
+  - Local backups.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D7546%2B16949744728391811088][Google Apps Marketplace]].
+  - Australian company.
+- [[http://www.syncplicity.com/products/personal-edition][Syncplicity Personal Edition]]
+  - Web app with free plan.
+  - Remote backups only.
+  - Native app doesn't support Linux.
+  - Reviewed at the [[http://www.google.com/enterprise/marketplace/viewListing?productListingId%3D393%2B9547105767200082343][Google Apps Marketplace]].
+  - US company.
+
+* Miscellaneous resources
+
+- [[http://www.google.com/enterprise/marketplace/search?query%3Dbackup%2B|%2Bbackups%2B|%2B"back%2Bup"][Backup apps]] and [[http://www.google.com/enterprise/marketplace/search?categoryId%3D8&orderBy%3DMOST_REVIEWED][security and compliance apps]] at the Google Apps Marketplace
+- [[google:%2522Google%2BDrive%2522%2B|%2B%2522Google%2BDocs%2522%2Bbackups][Search for Google Drive backup solutions]] at Google
+- 
