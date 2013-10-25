@@ -109,4 +109,4 @@
 ** Miscellaneous resources
 
 - [[http://www.google.com/enterprise/marketplace/search?query%3Dbackup%2B|%2Bbackups%2B|%2B"back%2Bup"][Backup apps]] and [[http://www.google.com/enterprise/marketplace/search?categoryId%3D8&orderBy%3DMOST_REVIEWED][security and compliance apps]] at the Google Apps Marketplace
-- [[google:%2522Google%2BDrive%2522%2B|%2B%2522Google%2BDocs%2522%2Bbackups][Search for Google Drive backup solutions]] at Google
+- [[https://encrypted.google.com/search?tbo=1&nfpr=1&q=%22Google+Drive%22+|+%22Google+Docs%22+backups][Search for Google Drive backup solutions]] at Google
