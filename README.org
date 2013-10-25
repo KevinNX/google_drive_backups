@@ -9,7 +9,6 @@
 - Backs up shared Google docs and spreadsheets.
 - Secure.
 - Reliable.
-- Backed by a legit organization.
 
 *** My wish list
 
